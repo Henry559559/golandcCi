@@ -1,0 +1,5 @@
+# Ignorar todos los archivos .txt
+*.txt
+
+# Ignorar el archivo go.sum
+go.sum
